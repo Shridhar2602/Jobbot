@@ -21,7 +21,8 @@ Jobbot is a cutting edge app for a busy student/professional who does not need t
 Thus if you want to save time and apply for jobs smarter, then Jobbot is THE application for you!
 
 ## Track:
-Task Automation
+- Task Automation
+- Open Innovation
 
 ## Contributors:
 Team Name - Room_Num_219
