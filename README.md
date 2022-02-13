@@ -1,5 +1,15 @@
 # Jobbot
 
+## Table of Contents:
+[Description](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#description) <br>
+[Track](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#track) <br>
+[Contributors](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#contributors) <br>
+[Details](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#details) <br>
+[Installation](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#installation) <br>
+[Instructions to run the code](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#instructions-to-run-the-code) <br>
+[Demo and Screenshots](https://github.com/Shridhar2602/Jobbot/edit/main/README.md#demo)
+
+
 ## DESCRIPTION:
 
 Jobbot is an application that makes applying for jobs easier. You only have to enter your Linkedin credentials, and Jobbot does the rest!
@@ -10,10 +20,10 @@ Jobbot is a cutting edge app for a busy student/professional who does not need t
 
 Thus if you want to save time and apply for jobs smarter, then Jobbot is THE application for you!
 
-## Track
+## Track:
 Task Automation
 
-## Authors
+## Contributors:
 Team Name - Room_Num_219
 - [Anshul Jindal](https://github.com/anshul-iiitb16)
 - [Mayank Chadha](https://github.com/mayankchadha16)
@@ -59,7 +69,7 @@ Team Name - Room_Num_219
 - Our Application can serve as a handy tool to create professional Resumes from a user's LinkedIn Profile.
 - We can import our Application to various Python Frameworks like Django and Flask.
 
-## Installation
+## Installation:
 
 Install Selenium library in Ubuntu
 
