@@ -247,7 +247,6 @@ def Build_Start(username,password):
 	Email = LIST_OF_ENTITIES[5]
 	write_Contact_Details(Location, Contact, Email, Profile_link)
 
-
 	# plt.savefig('resume.png', dpi=300, bbox_inches='tight')
 	#plt.show()
 	plt.savefig('resume.pdf')

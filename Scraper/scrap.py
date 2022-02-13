@@ -235,4 +235,6 @@ def begin(username, password):
 	FINAL_LIST.append(SKILLS)			# 9
 	FINAL_LIST.append(profile_url)		# 10
 
+	driver.close()
+	driver.quit()
 	return FINAL_LIST

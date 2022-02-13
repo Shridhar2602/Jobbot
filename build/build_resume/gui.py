@@ -4,7 +4,7 @@ from turtle import update
 import webbrowser
 import os
 import Scraper.resume as sc
-import build.gui as parent_gui
+from build import gui as parent_gui
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 
 OUTPUT_PATH = Path(__file__).parent

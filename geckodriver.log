@@ -1,0 +1,30 @@
+1644765244506	geckodriver	INFO	Listening on 127.0.0.1:48073
+1644765244954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33027" "-no-remote" "-profile" "/tmp/rust_mozprofileNdBrx7"
+[GFX1-]: glxtest: libEGL missing
+1644765246257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNdBrx7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33027/devtools/browser/eac1b662-f1f6-46c7-9552-f0972e8c1b27
+1644765248765	Marionette	INFO	Listening on port 38201
+1644765248809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644765250161	Marionette	INFO	Stopped listening on port 38201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644765452086	geckodriver	INFO	Listening on 127.0.0.1:57395
+1644765452496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55867" "-no-remote" "-profile" "/tmp/rust_mozprofileueZc0f"
+[GFX1-]: glxtest: libEGL missing
+1644765453078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileueZc0f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55867/devtools/browser/fd60b7de-6474-4cbc-bc9e-69fb0897955a
+1644765454797	Marionette	INFO	Listening on port 45155
+1644765454839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644765455844	Marionette	INFO	Stopped listening on port 45155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644765462777	geckodriver	INFO	Listening on 127.0.0.1:50379
+1644765463218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33405" "-no-remote" "-profile" "/tmp/rust_mozprofilekMdxPS"
+[GFX1-]: glxtest: libEGL missing
+1644765463765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekMdxPS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33405/devtools/browser/415dbbbc-c095-4eb2-8cac-4a30c582e84d
+1644765465548	Marionette	INFO	Listening on port 36825
+1644765465648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644765466839	Marionette	INFO	Stopped listening on port 36825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

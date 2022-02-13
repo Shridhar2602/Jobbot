@@ -273,11 +273,9 @@ def Start():
 		relief="flat"
 	)
 
-
-
 	button_4.place(
-		x=678.0,
-		y=361.0,
+		x=688.0,
+		y=356.0,
 		width=83.0,
 		height=20.0
 	)
