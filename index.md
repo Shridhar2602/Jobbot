@@ -28,13 +28,16 @@ Team Name - Room_Num_219
 	- [Lenoxex](https://lenoxexsearch.com/submit-resume/)
 	- [Newagesys](https://www.newagesys.com/submit_resume.php)
 
+
 2. Python programming language and some of its major libraries have been used in this project. We also used Figma to design the GUI.
+
 
 3. Libraries used:
 	- Matplotlib - For building the resume from the LinkedIn data and saving it as a PDF
 	- Tkinter and Canvas - To build Jobbot's GUI
 	- Selenium - To automate login to LinkedIn, button clicks and filling of fields in Job application websites
 	- BeautifulSoup - For web scraping the user's Linkedin profile information.
+
  
 4. Following fields are scraped from LinkedIn:
 	- Name
@@ -52,9 +55,6 @@ Team Name - Room_Num_219
 ## SCOPE:
 
 - Can be used by students/job seekers to build a professional resume and apply for jobs.
-<!-- - The application needs Python to run -->
-<!-- 
-- We also plan to extend this application to be made available to Android and iOS devices in the future. -->
 - Some recruitment websites require Sign Up before filling out recruitment forms. We can extend our application by automating such websites.
 - Our Application can serve as a handy tool to create professional Resumes from a user's LinkedIn Profile.
 - We can import our Application to various Python Frameworks like Django and Flask.
