@@ -109,9 +109,8 @@ Install Tkinter library in Ubuntu
 
 ## Screenshots
 ### Application Screenshots
-![Application Screenshot](https://user-images.githubusercontent.com/63835433/153752850-d8aee22b-e2b2-4bc5-b739-9bada1fa675d.png)
-
-![Application Screenshot](https://user-images.githubusercontent.com/63835433/153752853-833d3aa3-d4db-491d-a2fe-e3278cbd904a.png)
+![Screenshot-20220213174103-882x569](https://user-images.githubusercontent.com/63835433/153769026-02b65746-3177-4331-b95e-12f6d7b1582e.png)
+![Screenshot-20220213234840-882x569](https://user-images.githubusercontent.com/63835433/153769028-dd0257ef-335d-4c64-9cb3-5d13c325d371.png)
 
 ### Example Resume built from our Application
 ![Example Resume](https://user-images.githubusercontent.com/63835433/153753018-458df3c3-8db1-4398-a7d2-e8240cf8b97b.png)
