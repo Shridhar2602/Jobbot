@@ -94,7 +94,7 @@ def Start():
 		file=relative_to_assets("button_2.png"))
 
 	button_2= canvas.create_image(151.99999999999997, 466.0, anchor="nw",image=button_image_2)
-	canvas.tag_bind(button_2, "<Button-1>", lambda x: webbrowser.open_new_tab('https://github.com/anshul-iiitb16/ByteSynergy-x-Automation'))
+	canvas.tag_bind(button_2, "<Button-1>", lambda x: webbrowser.open_new_tab('https://github.com/Shridhar2602/Jobbot'))
 
 	image_image_2 = PhotoImage(
 		file=relative_to_assets("image_2.png"))
